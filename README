@@ -1,0 +1,23 @@
+# Agi Putra Kharisma agi[dot]banget[at]gmail[dot]com
+# http://agilini.us
+
+README
+======
+
+Ruby API untuk Kronologger JSON API versi 0.1.0
+
+Sistem yang dibutuhkan:
+- Ruby 1.8.7
+- OS: Universal
+
+File: kronologger.rb
+Merupakan Ruby API untuk mengonsumsi JSON API pada Kronologger.
+Untuk lebih jelasnya tentang Kronologger JSON silahkan lihat di
+http://kronologger.com/AIR/
+Ruby API ini dapat Anda pergunakan pada berbagai aplikasi.
+
+File: kron_cli_client.rb
+Merupakan contoh aplikasi sederhana yang berjalan di
+terminal/konsol. Aplikasi ini memanfaatkan Ruby API yang terdapat pada file kronologger.rb.
+Untuk menjalankannya, gunakan perintah (konsol):
+ruby kron_cli_client.rb
